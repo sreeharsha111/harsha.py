@@ -1,0 +1,7 @@
+i=int(input())
+j=int(input())
+n=int(input())
+if(j>=n>=i):
+   print("yes")
+else:
+   print("no")
